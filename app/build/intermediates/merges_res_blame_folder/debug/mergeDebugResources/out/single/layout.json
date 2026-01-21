@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:/layout/activity_form.xml",
+        "source": "cl.msanhueza.examenmiguelsanhuezap2.app-main-41:/layout/activity_form.xml"
+    },
+    {
+        "merged": "cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:/layout/item_medicion.xml",
+        "source": "cl.msanhueza.examenmiguelsanhuezap2.app-main-41:/layout/item_medicion.xml"
+    },
+    {
+        "merged": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:\\layout\\activity_list.xml",
+        "source": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-main-41:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:\\layout\\activity_form.xml",
+        "source": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-main-41:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:\\layout\\item_medicion.xml",
+        "source": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-main-41:\\layout\\item_medicion.xml"
+    },
+    {
+        "merged": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\migue\\.gradle\\daemon\\8.13\\cl.msanhueza.examenmiguelsanhuezap2.app-main-41:\\layout\\activity_main.xml"
+    }
+]
